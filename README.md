@@ -132,7 +132,7 @@ Esse arquivo:
 Exemplo de saída:
 
 {
-  "Graham&Basim": {
+  "FinanceScraperAPI": {
     "PETR3": {
       "LPA": "2,15",
       "VPA": "18,30",
