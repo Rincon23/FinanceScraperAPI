@@ -224,7 +224,7 @@ Isso permite montar dashboards automáticos com:
     <td align="center"><strong>GitHubPages como API</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="Img/Gitpages.png" width="400"/> q
+    <td align="center"><img src="Img/Gitpages.png" width="400"/>
   </tr>
 </table>
 
